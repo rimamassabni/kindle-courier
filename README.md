@@ -35,7 +35,7 @@ Daily digest of custom RSS feeds delivered to Kindle e-reader through email
     `> Azure Functions: Create Function App in Azure`
 * Create Azure Communication Service and Email Communication Service resources
 * Set Functions app environment variables:     `EMAIL_CONNECTION_STRING` and `KINDLE_ACCOUNT_EMAIL`
-
+![Environment variables screenshots](/assets/readme_envvar.png)
 * Deploy  
     `> Azure Functions: Deploy to Function App`
 
@@ -43,6 +43,7 @@ Daily digest of custom RSS feeds delivered to Kindle e-reader through email
 ## Run
 
 * **Locally**  
-    `F5` to start debugging, then trigger the function from vs code "Azure" activity bar panel
+    `F5` to start debugging, then trigger the function from vs code "Azure" activity bar panel  
+![Environment Variables Screenshot](/assets/readme_run.png)
 * **In Azure**  (setup Azure Functions app and Communication/Email servers)
     vs code command: `> Functions:Execute Function Now... `
