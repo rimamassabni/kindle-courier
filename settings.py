@@ -3,4 +3,4 @@ import tempfile
 
 opml_file_path = "sample-feeds.opml"
 output_directory = tempfile.gettempdir()
-published_after = datetime.combine(datetime.today(), time.min) - timedelta(days=30)
+published_after = datetime.combine(datetime.today(), time.min) - timedelta(days=1)
