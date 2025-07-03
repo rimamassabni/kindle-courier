@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>
+			My RSS feeds
+		</title>
+		<ownerId>
+			https://github.com/rimamassabni
+		</ownerId>
+	</head>
+	<body>
+		<outline title="Tech Blogs - Companies" text="Tech Blogs - Companies">
+			<outline text="Data Science at Microsoft" title="Data Science at Microsoft" type="rss" xmlUrl="https://medium.com/feed/data-science-at-microsoft" />
+			<outline text="Engineering at Microsoft" title="Engineering at Microsoft" type="rss" xmlUrl="https://devblogs.microsoft.com/engineering-at-microsoft/feed/" />
+		</outline>
+		<outline title="Tech Blogs" text="Tech Blogs">
+            <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="https://blog.codinghorror.com/rss" />
+		</outline>
+	</body>
+</opml>
